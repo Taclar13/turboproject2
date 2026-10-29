@@ -1,0 +1,519 @@
+name,stage,location,actual,bound_type,limit,margin,units,pass
+stage_loading,1,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,1,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,1,,0.7916816343042098,minimum,0.45,0.3416816343042098,,True
+degree_of_reaction,1,,0.7916816343042098,maximum,0.92,0.12831836569579025,,True
+rotor_relative_mach,1,rotor inlet,0.9210107495935652,maximum,0.98,0.05898925040643477,,True
+rotor_tip_mach_estimate,1,rotor inlet,1.0114207195949787,maximum,1.03,0.018579280405021326,,True
+rotor_relative_mach,1,rotor exit,0.6208949579112594,maximum,0.98,0.3591050420887406,,True
+rotor_tip_mach_estimate,1,rotor exit,0.680938484397802,maximum,1.03,0.349061515602198,,True
+stator_absolute_mach,1,stator inlet,0.5343412336194818,maximum,0.85,0.31565876638051815,,True
+stator_absolute_mach,1,stator exit,0.42156432066304245,maximum,0.85,0.42843567933695753,,True
+rotor_diffusion_factor,1,,0.4432774646567399,maximum,0.53,0.08672253534326013,,True
+stator_diffusion_factor,1,,0.4340057570510536,maximum,0.53,0.09599424294894643,,True
+stage_loading,2,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,2,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,2,,0.7916816343042108,minimum,0.45,0.3416816343042108,,True
+degree_of_reaction,2,,0.7916816343042108,maximum,0.92,0.12831836569578925,,True
+rotor_relative_mach,2,rotor inlet,0.8651052584743599,maximum,0.98,0.11489474152564005,,True
+rotor_tip_mach_estimate,2,rotor inlet,0.9360879453823059,maximum,1.03,0.09391205461769414,,True
+rotor_relative_mach,2,rotor exit,0.5859417713058538,maximum,0.98,0.3940582286941462,,True
+rotor_tip_mach_estimate,2,rotor exit,0.6342881747355313,maximum,1.03,0.3957118252644687,,True
+stator_absolute_mach,2,stator inlet,0.5042605756729346,maximum,0.85,0.3457394243270654,,True
+stator_absolute_mach,2,stator exit,0.39827709839262326,maximum,0.85,0.4517229016073767,,True
+rotor_diffusion_factor,2,,0.4432336796366255,maximum,0.53,0.0867663203633745,,True
+stator_diffusion_factor,2,,0.43391308165316606,maximum,0.53,0.09608691834683397,,True
+stage_loading,3,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,3,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,3,,0.79168163430421,minimum,0.45,0.34168163430421,,True
+degree_of_reaction,3,,0.79168163430421,maximum,0.92,0.12831836569579003,,True
+rotor_relative_mach,3,rotor inlet,0.8172519531659894,maximum,0.98,0.16274804683401056,,True
+rotor_tip_mach_estimate,3,rotor inlet,0.8747068840527523,maximum,1.03,0.1552931159472477,,True
+rotor_relative_mach,3,rotor exit,0.5556403557165223,maximum,0.98,0.4243596442834777,,True
+rotor_tip_mach_estimate,3,rotor exit,0.5955870355046916,maximum,1.03,0.4344129644953084,,True
+stator_absolute_mach,3,stator inlet,0.47818322461682555,maximum,0.85,0.3718167753831744,,True
+stator_absolute_mach,3,stator exit,0.37802743297721997,maximum,0.85,0.47197256702278,,True
+rotor_diffusion_factor,3,,0.44341630455534553,maximum,0.53,0.0865836954446545,,True
+stator_diffusion_factor,3,,0.4339968253054983,maximum,0.53,0.0960031746945017,,True
+stage_loading,4,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,4,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,4,,0.7916816343042095,minimum,0.45,0.34168163430420945,,True
+degree_of_reaction,4,,0.7916816343042095,maximum,0.92,0.12831836569579058,,True
+rotor_relative_mach,4,rotor inlet,0.7756316935947352,maximum,0.98,0.20436830640526482,,True
+rotor_tip_mach_estimate,4,rotor inlet,0.8233028274523485,maximum,1.03,0.20669717254765152,,True
+rotor_relative_mach,4,rotor exit,0.5290095620638878,maximum,0.98,0.45099043793611215,,True
+rotor_tip_mach_estimate,4,rotor exit,0.562726685760202,maximum,1.03,0.467273314239798,,True
+stator_absolute_mach,4,stator inlet,0.45526480508176403,maximum,0.85,0.39473519491823594,,True
+stator_absolute_mach,4,stator exit,0.3601857409629049,maximum,0.85,0.4898142590370951,,True
+rotor_diffusion_factor,4,,0.44353626602531426,maximum,0.53,0.08646373397468576,,True
+stator_diffusion_factor,4,,0.4339060117786432,maximum,0.53,0.09609398822135684,,True
+stage_loading,5,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,5,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,5,,0.7916816343042109,minimum,0.45,0.3416816343042109,,True
+degree_of_reaction,5,,0.7916816343042109,maximum,0.92,0.12831836569578914,,True
+rotor_relative_mach,5,rotor inlet,0.7389534210662408,maximum,0.98,0.24104657893375914,,True
+rotor_tip_mach_estimate,5,rotor inlet,0.7793271354995768,maximum,1.03,0.25067286450042325,,True
+rotor_relative_mach,5,rotor exit,0.505335548294545,maximum,0.98,0.474664451705455,,True
+rotor_tip_mach_estimate,5,rotor exit,0.5343083116133153,maximum,1.03,0.49569168838668476,,True
+stator_absolute_mach,5,stator inlet,0.4348909857085309,maximum,0.85,0.41510901429146907,,True
+stator_absolute_mach,5,stator exit,0.3442912070773498,maximum,0.85,0.5057087929226503,,True
+rotor_diffusion_factor,5,,0.44344855899303437,maximum,0.53,0.08655144100696566,,True
+stator_diffusion_factor,5,,0.435790989179067,maximum,0.53,0.09420901082093303,,True
+stage_loading,6,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,6,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,6,,0.7916816343042102,minimum,0.45,0.3416816343042102,,True
+degree_of_reaction,6,,0.7916816343042102,maximum,0.92,0.1283183656957898,,True
+rotor_relative_mach,6,rotor inlet,0.7062719580634315,maximum,0.98,0.2737280419365685,,True
+rotor_tip_mach_estimate,6,rotor inlet,0.7410623613002125,maximum,1.03,0.2889376386997875,,True
+rotor_relative_mach,6,rotor exit,0.4840848080999373,maximum,0.98,0.49591519190006267,,True
+rotor_tip_mach_estimate,6,rotor exit,0.5093633267178839,maximum,1.03,0.5206366732821162,,True
+stator_absolute_mach,6,stator inlet,0.4166026317990171,maximum,0.85,0.4333973682009829,,True
+stator_absolute_mach,6,stator exit,0.3299976925899318,maximum,0.85,0.5200023074100681,,True
+rotor_diffusion_factor,6,,0.443082045314667,maximum,0.53,0.08691795468533303,,True
+stator_diffusion_factor,6,,0.43468491573361173,maximum,0.53,0.0953150842663883,,True
+stage_loading,7,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,7,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,7,,0.7916816343042101,minimum,0.45,0.3416816343042101,,True
+degree_of_reaction,7,,0.7916816343042101,maximum,0.92,0.12831836569578992,,True
+rotor_relative_mach,7,rotor inlet,0.6768772091003004,maximum,0.98,0.3031227908996996,,True
+rotor_tip_mach_estimate,7,rotor inlet,0.7073036176900012,maximum,1.03,0.32269638230999886,,True
+rotor_relative_mach,7,rotor exit,0.46484947102837737,maximum,0.98,0.5151505289716226,,True
+rotor_tip_mach_estimate,7,rotor exit,0.48719704972441724,maximum,1.03,0.5428029502755828,,True
+stator_absolute_mach,7,stator inlet,0.40004873067783436,maximum,0.85,0.4499512693221656,,True
+stator_absolute_mach,7,stator exit,0.3170394354050005,maximum,0.85,0.5329605645949995,,True
+rotor_diffusion_factor,7,,0.443677203823192,maximum,0.53,0.08632279617680805,,True
+stator_diffusion_factor,7,,0.4350877736036305,maximum,0.53,0.09491222639636954,,True
+stage_loading,8,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,8,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,8,,0.7916816343042097,minimum,0.45,0.34168163430420967,,True
+degree_of_reaction,8,,0.7916816343042097,maximum,0.92,0.12831836569579036,,True
+rotor_relative_mach,8,rotor inlet,0.6502238824334187,maximum,0.98,0.3297761175665813,,True
+rotor_tip_mach_estimate,8,rotor inlet,0.6771770831430126,maximum,1.03,0.3528229168569874,,True
+rotor_relative_mach,8,rotor exit,0.44731161176586914,maximum,0.98,0.5326883882341309,,True
+rotor_tip_mach_estimate,8,rotor exit,0.4672964191102818,maximum,1.03,0.5627035808897183,,True
+stator_absolute_mach,8,stator inlet,0.38495567631498534,maximum,0.85,0.46504432368501464,,True
+stator_absolute_mach,8,stator exit,0.30520851445761465,maximum,0.85,0.5447914855423853,,True
+rotor_diffusion_factor,8,,0.4437530311141816,maximum,0.53,0.08624696888581845,,True
+stator_diffusion_factor,8,,0.4347271114086152,maximum,0.53,0.09527288859138483,,True
+stage_loading,9,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,9,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,9,,0.7916816343042116,minimum,0.45,0.34168163430421156,,True
+degree_of_reaction,9,,0.7916816343042116,maximum,0.92,0.12831836569578847,,True
+rotor_relative_mach,9,rotor inlet,0.625885305002617,maximum,0.98,0.354114694997383,,True
+rotor_tip_mach_estimate,9,rotor inlet,0.6500312063783897,maximum,1.03,0.3799687936216103,,True
+rotor_relative_mach,9,rotor exit,0.4312192227074217,maximum,0.98,0.5487807772925783,,True
+rotor_tip_mach_estimate,9,rotor exit,0.449273006126509,maximum,1.03,0.580726993873491,,True
+stator_absolute_mach,9,stator inlet,0.3711065913581633,maximum,0.85,0.47889340864183666,,True
+stator_absolute_mach,9,stator exit,0.29433958805928384,maximum,0.85,0.5556604119407161,,True
+rotor_diffusion_factor,9,,0.44334975790715414,maximum,0.53,0.08665024209284589,,True
+stator_diffusion_factor,9,,0.43537087352538717,maximum,0.53,0.09462912647461286,,True
+stage_loading,10,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,10,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,10,,0.7916816343042121,minimum,0.45,0.3416816343042121,,True
+degree_of_reaction,10,,0.7916816343042121,maximum,0.92,0.12831836569578792,,True
+rotor_relative_mach,10,rotor inlet,0.6035221383144298,maximum,0.98,0.3764778616855702,,True
+rotor_tip_mach_estimate,10,rotor inlet,0.6253686233155359,maximum,1.03,0.40463137668446414,,True
+rotor_relative_mach,10,rotor exit,0.4163695964151652,maximum,0.98,0.5636304035848347,,True
+rotor_tip_mach_estimate,10,rotor exit,0.4328264509841497,maximum,1.03,0.5971735490158503,,True
+stator_absolute_mach,10,stator inlet,0.358327026102092,maximum,0.85,0.491672973897908,,True
+stator_absolute_mach,10,stator exit,0.2842992842663505,maximum,0.85,0.5657007157336496,,True
+rotor_diffusion_factor,10,,0.44354314242078546,maximum,0.53,0.08645685757921456,,True
+stator_diffusion_factor,10,,0.4351529435831508,maximum,0.53,0.09484705641684921,,True
+stage_loading,11,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,11,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,11,,0.7916816343042098,minimum,0.45,0.3416816343042098,,True
+degree_of_reaction,11,,0.7916816343042098,maximum,0.92,0.12831836569579025,,True
+rotor_relative_mach,11,rotor inlet,0.5828606263364716,maximum,0.98,0.39713937366352836,,True
+rotor_tip_mach_estimate,11,rotor inlet,0.602801960021151,maximum,1.03,0.427198039978849,,True
+rotor_relative_mach,11,rotor exit,0.40259755971203776,maximum,0.98,0.5774024402879623,,True
+rotor_tip_mach_estimate,11,rotor exit,0.41772021717886376,maximum,1.03,0.6122797828211363,,True
+stator_absolute_mach,11,stator inlet,0.3464748327678796,maximum,0.85,0.5035251672321204,,True
+stator_absolute_mach,11,stator exit,0.2749786548073394,maximum,0.85,0.5750213451926606,,True
+rotor_diffusion_factor,11,,0.4432074749853857,maximum,0.53,0.08679252501461432,,True
+stator_diffusion_factor,11,,0.4356950227300272,maximum,0.53,0.09430497726997283,,True
+stage_loading,12,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,12,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,12,,0.7916816343042103,minimum,0.45,0.34168163430421034,,True
+degree_of_reaction,12,,0.7916816343042103,maximum,0.92,0.1283183656957897,,True
+rotor_relative_mach,12,rotor inlet,0.5636771218919752,maximum,0.98,0.4163228781080248,,True
+rotor_tip_mach_estimate,12,rotor inlet,0.5820242207791672,maximum,1.03,0.44797577922083287,,True
+rotor_relative_mach,12,rotor exit,0.3897669691349246,maximum,0.98,0.5902330308650754,,True
+rotor_tip_mach_estimate,12,rotor exit,0.4037650475663821,maximum,1.03,0.6262349524336179,,True
+stator_absolute_mach,12,stator inlet,0.3354328465032383,maximum,0.85,0.5145671534967617,,True
+stator_absolute_mach,12,stator exit,0.2662876988671296,maximum,0.85,0.5837123011328704,,True
+rotor_diffusion_factor,12,,0.4433279790850002,maximum,0.53,0.08667202091499981,,True
+stator_diffusion_factor,12,,0.43537109754028935,maximum,0.53,0.09462890245971067,,True
+stage_loading,13,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,13,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,13,,0.7916816343042126,minimum,0.45,0.34168163430421256,,True
+degree_of_reaction,13,,0.7916816343042126,maximum,0.92,0.12831836569578747,,True
+rotor_relative_mach,13,rotor inlet,0.545786855798627,maximum,0.98,0.434213144201373,,True
+rotor_tip_mach_estimate,13,rotor inlet,0.5627883958088228,maximum,1.03,0.46721160419117724,,True
+rotor_relative_mach,13,rotor exit,0.3777644502117858,maximum,0.98,0.6022355497882141,,True
+rotor_tip_mach_estimate,13,rotor exit,0.39080738953953126,maximum,1.03,0.6391926104604688,,True
+stator_absolute_mach,13,stator inlet,0.32510349741413236,maximum,0.85,0.5248965025858676,,True
+stator_absolute_mach,13,stator exit,0.2581513173534724,maximum,0.85,0.5918486826465276,,True
+rotor_diffusion_factor,13,,0.44382401917596603,maximum,0.53,0.086175980824034,,True
+stator_diffusion_factor,13,,0.4356796840005885,maximum,0.53,0.09432031599941154,,True
+stage_loading,14,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,14,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,14,,0.7916816343042129,minimum,0.45,0.3416816343042129,,True
+degree_of_reaction,14,,0.7916816343042129,maximum,0.92,0.12831836569578714,,True
+rotor_relative_mach,14,rotor inlet,0.5290356386396919,maximum,0.98,0.45096436136030804,,True
+rotor_tip_mach_estimate,14,rotor inlet,0.544893076086988,maximum,1.03,0.485106923913012,,True
+rotor_relative_mach,14,rotor exit,0.3664947126578706,maximum,0.98,0.6135052873421294,,True
+rotor_tip_mach_estimate,14,rotor exit,0.37872111609812165,maximum,1.03,0.6512788839018784,,True
+stator_absolute_mach,14,stator inlet,0.3154047788299374,maximum,0.85,0.5345952211700626,,True
+stator_absolute_mach,14,stator exit,0.250506275880531,maximum,0.85,0.599493724119469,,True
+rotor_diffusion_factor,14,,0.44376589149466705,maximum,0.53,0.08623410850533297,,True
+stator_diffusion_factor,14,,0.43515366923511356,maximum,0.53,0.09484633076488647,,True
+stage_loading,15,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,15,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,15,,0.7916816343042112,minimum,0.45,0.3416816343042112,,True
+degree_of_reaction,15,,0.7916816343042112,maximum,0.92,0.1283183656957888,,True
+rotor_relative_mach,15,rotor inlet,0.5132936307994254,maximum,0.98,0.4667063692005746,,True
+rotor_tip_mach_estimate,15,rotor inlet,0.5281720879049875,maximum,1.03,0.5018279120950125,,True
+rotor_relative_mach,15,rotor exit,0.3558769930016601,maximum,0.98,0.6241230069983399,,True
+rotor_tip_mach_estimate,15,rotor exit,0.3674014872230246,maximum,1.03,0.6625985127769753,,True
+stator_absolute_mach,15,stator inlet,0.3062671858328685,maximum,0.85,0.5437328141671315,,True
+stator_absolute_mach,15,stator exit,0.24329889200295313,maximum,0.85,0.6067011079970468,,True
+rotor_diffusion_factor,15,,0.4432003346718607,maximum,0.53,0.08679966532813932,,True
+stator_diffusion_factor,15,,0.43519258147620177,maximum,0.53,0.09480741852379826,,True
+stage_loading,16,,0.41663673139157836,minimum,0.18,0.23663673139157837,,True
+stage_loading,16,,0.41663673139157836,maximum,0.6,0.18336326860842161,,True
+degree_of_reaction,16,,0.7916816343042073,minimum,0.45,0.34168163430420734,,True
+degree_of_reaction,16,,0.7916816343042073,maximum,0.92,0.1283183656957927,,True
+rotor_relative_mach,16,rotor inlet,0.4984505976856091,maximum,0.98,0.48154940231439086,,True
+rotor_tip_mach_estimate,16,rotor inlet,0.5124868816643787,maximum,1.03,0.5175131183356213,,True
+rotor_relative_mach,16,rotor exit,0.34584231728692905,maximum,0.98,0.6341576827130709,,True
+rotor_tip_mach_estimate,16,rotor exit,0.35676066766629955,maximum,1.03,0.6732393323337005,,True
+stator_absolute_mach,16,stator inlet,0.29763135954363773,maximum,0.85,0.5523686404563622,,True
+stator_absolute_mach,16,stator exit,0.23648325097516132,maximum,0.85,0.6135167490248387,,True
+rotor_diffusion_factor,16,,0.4438071841239472,maximum,0.53,0.08619281587605282,,True
+stator_diffusion_factor,16,,0.4357427269254518,maximum,0.53,0.09425727307454823,,True
+hub_radius,1,rotor_inlet,0.21845649412331217,minimum,0.075,0.14345649412331218,m,True
+blade_height,1,rotor_inlet,0.06308701175337568,minimum,0.018,0.04508701175337568,m,True
+tip_radius,1,rotor_inlet,0.28154350587668786,maximum,0.44,0.15845649412331214,m,True
+hub_radius,1,rotor_exit,0.22433091818060133,minimum,0.075,0.14933091818060135,m,True
+blade_height,1,rotor_exit,0.05133816363879733,minimum,0.018,0.033338163638797325,m,True
+tip_radius,1,rotor_exit,0.27566908181939864,maximum,0.44,0.16433091818060136,m,True
+hub_radius,1,stator_inlet,0.22433091818060133,minimum,0.075,0.14933091818060135,m,True
+blade_height,1,stator_inlet,0.05133816363879733,minimum,0.018,0.033338163638797325,m,True
+tip_radius,1,stator_inlet,0.27566908181939864,maximum,0.44,0.16433091818060136,m,True
+hub_radius,1,stator_exit,0.22437002096400116,minimum,0.075,0.14937002096400115,m,True
+blade_height,1,stator_exit,0.051259958071997694,minimum,0.018,0.03325995807199769,m,True
+tip_radius,1,stator_exit,0.27562997903599884,maximum,0.44,0.16437002096400116,m,True
+hub_radius,2,rotor_inlet,0.22119701569480535,minimum,0.075,0.14619701569480537,m,True
+blade_height,2,rotor_inlet,0.05227263527705594,minimum,0.018,0.03427263527705594,m,True
+tip_radius,2,rotor_inlet,0.27346965097186127,maximum,0.44,0.16653034902813874,m,True
+hub_radius,2,rotor_exit,0.22556099163046897,minimum,0.075,0.150560991630469,m,True
+blade_height,2,rotor_exit,0.043544683405728694,minimum,0.018,0.025544683405728696,m,True
+tip_radius,2,rotor_exit,0.26910567503619764,maximum,0.44,0.17089432496380236,m,True
+hub_radius,2,stator_inlet,0.22556099163046897,minimum,0.075,0.150560991630469,m,True
+blade_height,2,stator_inlet,0.043544683405728694,minimum,0.018,0.025544683405728696,m,True
+tip_radius,2,stator_inlet,0.26910567503619764,maximum,0.44,0.17089432496380236,m,True
+hub_radius,2,stator_exit,0.22558662089940662,minimum,0.075,0.1505866208994066,m,True
+blade_height,2,stator_exit,0.043493424867853375,minimum,0.018,0.025493424867853377,m,True
+tip_radius,2,stator_exit,0.26908004576726,maximum,0.44,0.17091995423273998,m,True
+hub_radius,3,rotor_inlet,0.222481085474485,minimum,0.075,0.14748108547448502,m,True
+blade_height,3,rotor_inlet,0.04437116238436335,minimum,0.018,0.026371162384363354,m,True
+tip_radius,3,rotor_inlet,0.26685224785884837,maximum,0.44,0.17314775214115163,m,True
+hub_radius,3,rotor_exit,0.22583047585824662,minimum,0.075,0.1508304758582466,m,True
+blade_height,3,rotor_exit,0.03767238161684014,minimum,0.018,0.01967238161684014,m,True
+tip_radius,3,rotor_exit,0.2635028574750867,maximum,0.44,0.17649714252491328,m,True
+hub_radius,3,stator_inlet,0.22583047585824662,minimum,0.075,0.1508304758582466,m,True
+blade_height,3,stator_inlet,0.03767238161684014,minimum,0.018,0.01967238161684014,m,True
+tip_radius,3,stator_inlet,0.2635028574750867,maximum,0.44,0.17649714252491328,m,True
+hub_radius,3,stator_exit,0.22584789160499755,minimum,0.075,0.15084789160499756,m,True
+blade_height,3,stator_exit,0.03763755012333826,minimum,0.018,0.019637550123338263,m,True
+tip_radius,3,stator_exit,0.2634854417283358,maximum,0.44,0.17651455827166418,m,True
+hub_radius,4,rotor_inlet,0.2227939660975568,minimum,0.075,0.1477939660975568,m,True
+blade_height,4,rotor_inlet,0.03841206780488638,minimum,0.018,0.020412067804886382,m,True
+tip_radius,4,rotor_inlet,0.2612060339024432,maximum,0.44,0.17879396609755682,m,True
+hub_radius,4,rotor_exit,0.2254342626448852,minimum,0.075,0.15043426264488519,m,True
+blade_height,4,rotor_exit,0.0331314747102296,minimum,0.018,0.0151314747102296,m,True
+tip_radius,4,rotor_exit,0.2585657373551148,maximum,0.44,0.1814342626448852,m,True
+hub_radius,4,stator_inlet,0.2254342626448852,minimum,0.075,0.15043426264488519,m,True
+blade_height,4,stator_inlet,0.0331314747102296,minimum,0.018,0.0151314747102296,m,True
+tip_radius,4,stator_inlet,0.2585657373551148,maximum,0.44,0.1814342626448852,m,True
+hub_radius,4,stator_exit,0.2254464499339124,minimum,0.075,0.15044644993391243,m,True
+blade_height,4,stator_exit,0.033107100132175146,minimum,0.018,0.015107100132175148,m,True
+tip_radius,4,stator_exit,0.25855355006608755,maximum,0.44,0.18144644993391246,m,True
+hub_radius,5,rotor_inlet,0.2224328844418337,minimum,0.075,0.14743288444183372,m,True
+blade_height,5,rotor_inlet,0.033800897782999294,minimum,0.018,0.015800897782999295,m,True
+tip_radius,5,rotor_inlet,0.256233782224833,maximum,0.44,0.183766217775167,m,True
+hub_radius,5,rotor_exit,0.22456112670712713,minimum,0.075,0.14956112670712712,m,True
+blade_height,5,rotor_exit,0.02954441325241243,minimum,0.018,0.011544413252412431,m,True
+tip_radius,5,rotor_exit,0.25410553995953955,maximum,0.44,0.18589446004046045,m,True
+hub_radius,5,stator_inlet,0.22456112670712713,minimum,0.075,0.14956112670712712,m,True
+blade_height,5,stator_inlet,0.02954441325241243,minimum,0.018,0.011544413252412431,m,True
+tip_radius,5,stator_inlet,0.25410553995953955,maximum,0.44,0.18589446004046045,m,True
+hub_radius,5,stator_exit,0.22456986380360436,minimum,0.075,0.14956986380360437,m,True
+blade_height,5,stator_exit,0.02952693905945795,minimum,0.018,0.011526939059457952,m,True
+tip_radius,5,stator_exit,0.2540968028630623,maximum,0.44,0.1859031971369377,m,True
+hub_radius,6,rotor_inlet,0.22158843616288085,minimum,0.075,0.14658843616288086,m,True
+blade_height,6,rotor_inlet,0.03015646100757164,minimum,0.018,0.012156461007571642,m,True
+tip_radius,6,rotor_inlet,0.2517448971704525,maximum,0.44,0.1882551028295475,m,True
+hub_radius,6,rotor_exit,0.22333663955880687,minimum,0.075,0.14833663955880688,m,True
+blade_height,6,rotor_exit,0.026660054215719587,minimum,0.018,0.008660054215719588,m,True
+tip_radius,6,rotor_exit,0.24999669377452646,maximum,0.44,0.19000330622547354,m,True
+hub_radius,6,stator_inlet,0.22333663955880687,minimum,0.075,0.14833663955880688,m,True
+blade_height,6,stator_inlet,0.026660054215719587,minimum,0.018,0.008660054215719588,m,True
+tip_radius,6,stator_inlet,0.24999669377452646,maximum,0.44,0.19000330622547354,m,True
+hub_radius,6,stator_exit,0.22334302975089193,minimum,0.075,0.14834302975089192,m,True
+blade_height,6,stator_exit,0.02664727383154944,minimum,0.018,0.008647273831549441,m,True
+tip_radius,6,stator_exit,0.2499903035824414,maximum,0.44,0.1900096964175586,m,True
+hub_radius,7,rotor_inlet,0.2203875748863883,minimum,0.075,0.14538757488638832,m,True
+blade_height,7,rotor_inlet,0.027224850227223398,minimum,0.018,0.0092248502272234,m,True
+tip_radius,7,rotor_inlet,0.24761242511361167,maximum,0.44,0.19238757488638833,m,True
+hub_radius,7,rotor_exit,0.22184707114272514,minimum,0.075,0.14684707114272516,m,True
+blade_height,7,rotor_exit,0.024305857714549694,minimum,0.018,0.006305857714549695,m,True
+tip_radius,7,rotor_exit,0.24615292885727483,maximum,0.44,0.19384707114272517,m,True
+hub_radius,7,stator_inlet,0.22184707114272514,minimum,0.075,0.14684707114272516,m,True
+blade_height,7,stator_inlet,0.024305857714549694,minimum,0.018,0.006305857714549695,m,True
+tip_radius,7,stator_inlet,0.24615292885727483,maximum,0.44,0.19384707114272517,m,True
+hub_radius,7,stator_exit,0.22185182298933895,minimum,0.075,0.14685182298933896,m,True
+blade_height,7,stator_exit,0.024296354021322072,minimum,0.018,0.006296354021322073,m,True
+tip_radius,7,stator_exit,0.24614817701066102,maximum,0.44,0.19385182298933898,m,True
+hub_radius,8,rotor_inlet,0.21891761431285062,minimum,0.075,0.1439176143128506,m,True
+blade_height,8,rotor_inlet,0.02483143804096544,minimum,0.018,0.0068314380409654415,m,True
+tip_radius,8,rotor_inlet,0.24374905235381605,maximum,0.44,0.19625094764618395,m,True
+hub_radius,8,rotor_exit,0.2201533448736547,minimum,0.075,0.14515334487365472,m,True
+blade_height,8,rotor_exit,0.02235997691935727,minimum,0.018,0.004359976919357272,m,True
+tip_radius,8,rotor_exit,0.24251332179301197,maximum,0.44,0.19748667820698804,m,True
+hub_radius,8,stator_inlet,0.2201533448736547,minimum,0.075,0.14515334487365472,m,True
+blade_height,8,stator_inlet,0.02235997691935727,minimum,0.018,0.004359976919357272,m,True
+tip_radius,8,stator_inlet,0.24251332179301197,maximum,0.44,0.19748667820698804,m,True
+hub_radius,8,stator_exit,0.2201569271406483,minimum,0.075,0.14515692714064832,m,True
+blade_height,8,stator_exit,0.022352812385370062,minimum,0.018,0.004352812385370063,m,True
+tip_radius,8,stator_exit,0.24250973952601837,maximum,0.44,0.19749026047398163,m,True
+hub_radius,9,rotor_inlet,0.21724026917683212,minimum,0.075,0.14224026917683213,m,True
+blade_height,9,rotor_inlet,0.022852794979669074,minimum,0.018,0.004852794979669076,m,True
+tip_radius,9,rotor_inlet,0.2400930641565012,maximum,0.44,0.1999069358434988,m,True
+hub_radius,9,rotor_exit,0.21829951819619478,minimum,0.075,0.1432995181961948,m,True
+blade_height,9,rotor_exit,0.02073429694094374,minimum,0.018,0.0027342969409437402,m,True
+tip_radius,9,rotor_exit,0.23903381513713853,maximum,0.44,0.20096618486286147,m,True
+hub_radius,9,stator_inlet,0.21829951819619478,minimum,0.075,0.1432995181961948,m,True
+blade_height,9,stator_inlet,0.02073429694094374,minimum,0.018,0.0027342969409437402,m,True
+tip_radius,9,stator_inlet,0.23903381513713853,maximum,0.44,0.20096618486286147,m,True
+hub_radius,9,stator_exit,0.21830224910970975,minimum,0.075,0.14330224910970973,m,True
+blade_height,9,stator_exit,0.020728835113913817,minimum,0.018,0.0027288351139138182,m,True
+tip_radius,9,stator_exit,0.23903108422362357,maximum,0.44,0.20096891577637643,m,True
+hub_radius,10,rotor_inlet,0.21540020147838415,minimum,0.075,0.14040020147838417,m,True
+blade_height,10,rotor_inlet,0.02119959704323172,minimum,0.018,0.0031995970432317222,m,True
+tip_radius,10,rotor_inlet,0.23659979852161586,maximum,0.44,0.20340020147838414,m,True
+hub_radius,10,rotor_exit,0.21631811691228947,minimum,0.075,0.14131811691228946,m,True
+blade_height,10,rotor_exit,0.01936376617542105,minimum,0.018,0.0013637661754210516,m,True
+tip_radius,10,rotor_exit,0.23568188308771054,maximum,0.44,0.20431811691228946,m,True
+hub_radius,10,stator_inlet,0.21631811691228947,minimum,0.075,0.14131811691228946,m,True
+blade_height,10,stator_inlet,0.01936376617542105,minimum,0.018,0.0013637661754210516,m,True
+tip_radius,10,stator_inlet,0.23568188308771054,maximum,0.44,0.20431811691228946,m,True
+hub_radius,10,stator_exit,0.21632021744103067,minimum,0.075,0.14132021744103068,m,True
+blade_height,10,stator_exit,0.019359565117938675,minimum,0.018,0.0013595651179386763,m,True
+tip_radius,10,stator_exit,0.23567978255896935,maximum,0.44,0.20432021744103065,m,True
+hub_radius,11,rotor_inlet,0.21343040311092193,minimum,0.075,0.13843040311092192,m,True
+blade_height,11,rotor_inlet,0.01980586044482279,minimum,0.018,0.0018058604448227926,m,True
+tip_radius,11,rotor_inlet,0.23323626355574473,maximum,0.44,0.20676373644425527,m,True
+hub_radius,11,rotor_exit,0.21423359257840027,minimum,0.075,0.1392335925784003,m,True
+blade_height,11,rotor_exit,0.018199481509866108,minimum,0.018,0.00019948150986610902,m,True
+tip_radius,11,rotor_exit,0.23243307408826638,maximum,0.44,0.20756692591173362,m,True
+hub_radius,11,stator_inlet,0.21423359257840027,minimum,0.075,0.1392335925784003,m,True
+blade_height,11,stator_inlet,0.018199481509866108,minimum,0.018,0.00019948150986610902,m,True
+tip_radius,11,stator_inlet,0.23243307408826638,maximum,0.44,0.20756692591173362,m,True
+hub_radius,11,stator_exit,0.214235219250666,minimum,0.075,0.139235219250666,m,True
+blade_height,11,stator_exit,0.018196228165334664,minimum,0.018,0.00019622816533466578,m,True
+tip_radius,11,stator_exit,0.23243144741600066,maximum,0.44,0.20756855258399934,m,True
+hub_radius,12,rotor_inlet,0.21135568835536667,minimum,0.075,0.13635568835536666,m,True
+blade_height,12,rotor_inlet,0.01862195662260003,minimum,0.018,0.0006219566226000305,m,True
+tip_radius,12,rotor_inlet,0.2299776449779667,maximum,0.44,0.2100223550220333,m,True
+hub_radius,12,rotor_exit,0.21206462312547927,minimum,0.075,0.1370646231254793,m,True
+blade_height,12,rotor_exit,0.01720408708237481,minimum,0.018,-0.000795912917625187,m,False
+tip_radius,12,rotor_exit,0.22926871020785408,maximum,0.44,0.21073128979214592,m,True
+hub_radius,12,stator_inlet,0.21206462312547927,minimum,0.075,0.1370646231254793,m,True
+blade_height,12,stator_inlet,0.01720408708237481,minimum,0.018,-0.000795912917625187,m,False
+tip_radius,12,stator_inlet,0.22926871020785408,maximum,0.44,0.21073128979214592,m,True
+hub_radius,12,stator_exit,0.2120658888063326,minimum,0.075,0.13706588880633258,m,True
+blade_height,12,stator_exit,0.01720155572066816,minimum,0.018,-0.0007984442793318378,m,False
+tip_radius,12,stator_exit,0.22926744452700076,maximum,0.44,0.21073255547299924,m,True
+hub_radius,13,rotor_inlet,0.20919501998921433,minimum,0.075,0.13419501998921435,m,True
+blade_height,13,rotor_inlet,0.01760996002157135,minimum,0.018,-0.0003900399784286489,m,False
+tip_radius,13,rotor_inlet,0.22680498001078567,maximum,0.44,0.21319501998921433,m,True
+hub_radius,13,rotor_exit,0.20982567980001704,minimum,0.075,0.13482567980001703,m,True
+blade_height,13,rotor_exit,0.01634864039996594,minimum,0.018,-0.0016513596000340587,m,False
+tip_radius,13,rotor_exit,0.22617432019998296,maximum,0.44,0.21382567980001704,m,True
+hub_radius,13,stator_inlet,0.20982567980001704,minimum,0.075,0.13482567980001703,m,True
+blade_height,13,stator_inlet,0.01634864039996594,minimum,0.018,-0.0016513596000340587,m,False
+tip_radius,13,stator_inlet,0.22617432019998296,maximum,0.44,0.21382567980001704,m,True
+hub_radius,13,stator_exit,0.20982666717223217,minimum,0.075,0.13482666717223218,m,True
+blade_height,13,stator_exit,0.01634666565553565,minimum,0.018,-0.0016533343444643488,m,False
+tip_radius,13,stator_exit,0.22617333282776783,maximum,0.44,0.21382666717223217,m,True
+hub_radius,14,rotor_inlet,0.20696309482987751,minimum,0.075,0.1319630948298775,m,True
+blade_height,14,rotor_inlet,0.0167404770069116,minimum,0.018,-0.0012595229930883987,m,False
+tip_radius,14,rotor_inlet,0.22370357183678913,maximum,0.44,0.21629642816321087,m,True
+hub_radius,14,rotor_exit,0.2075281167759071,minimum,0.075,0.1325281167759071,m,True
+blade_height,14,rotor_exit,0.015610433114852447,minimum,0.018,-0.0023895668851475517,m,False
+tip_radius,14,rotor_exit,0.22313854989075954,maximum,0.44,0.21686145010924046,m,True
+hub_radius,14,stator_inlet,0.2075281167759071,minimum,0.075,0.1325281167759071,m,True
+blade_height,14,stator_inlet,0.015610433114852447,minimum,0.018,-0.0023895668851475517,m,False
+tip_radius,14,stator_inlet,0.22313854989075954,maximum,0.44,0.21686145010924046,m,True
+hub_radius,14,stator_exit,0.2075288872809552,minimum,0.075,0.1325288872809552,m,True
+blade_height,14,stator_exit,0.015608892104756257,minimum,0.018,-0.002391107895243742,m,False
+tip_radius,14,stator_exit,0.22313777938571144,maximum,0.44,0.21686222061428856,m,True
+hub_radius,15,rotor_inlet,0.20467144702482087,minimum,0.075,0.12967144702482086,m,True
+blade_height,15,rotor_inlet,0.0159904392836916,minimum,0.018,-0.0020095607163083985,m,False
+tip_radius,15,rotor_inlet,0.22066188630851247,maximum,0.44,0.21933811369148754,m,True
+hub_radius,15,rotor_exit,0.20518094306907453,minimum,0.075,0.13018094306907452,m,True
+blade_height,15,rotor_exit,0.014971447195184302,minimum,0.018,-0.003028552804815697,m,False
+tip_radius,15,rotor_exit,0.2201523902642588,maximum,0.44,0.2198476097357412,m,True
+hub_radius,15,stator_inlet,0.20518094306907453,minimum,0.075,0.13018094306907452,m,True
+blade_height,15,stator_inlet,0.014971447195184302,minimum,0.018,-0.003028552804815697,m,False
+tip_radius,15,stator_inlet,0.2201523902642588,maximum,0.44,0.2198476097357412,m,True
+hub_radius,15,stator_exit,0.20518154295540558,minimum,0.075,0.13018154295540557,m,True
+blade_height,15,stator_exit,0.014970247422522157,minimum,0.018,-0.0030297525774778417,m,False
+tip_radius,15,stator_exit,0.22015179037792776,maximum,0.44,0.21984820962207224,m,True
+hub_radius,16,rotor_inlet,0.20232923011090306,minimum,0.075,0.12732923011090308,m,True
+blade_height,16,rotor_inlet,0.015341539778193844,minimum,0.018,-0.0026584602218061547,m,False
+tip_radius,16,rotor_inlet,0.21767076988909692,maximum,0.44,0.22232923011090308,m,True
+hub_radius,16,rotor_exit,0.2027913786275124,minimum,0.075,0.1277913786275124,m,True
+blade_height,16,rotor_exit,0.014417242744975207,minimum,0.018,-0.003582757255024792,m,False
+tip_radius,16,rotor_exit,0.2172086213724876,maximum,0.44,0.22279137862751242,m,True
+hub_radius,16,stator_inlet,0.2027913786275124,minimum,0.075,0.1277913786275124,m,True
+blade_height,16,stator_inlet,0.014417242744975207,minimum,0.018,-0.003582757255024792,m,False
+tip_radius,16,stator_inlet,0.2172086213724876,maximum,0.44,0.22279137862751242,m,True
+hub_radius,16,stator_exit,0.20279184311584622,minimum,0.075,0.12779184311584624,m,True
+blade_height,16,stator_exit,0.014416313768307563,minimum,0.018,-0.003583686231692435,m,False
+tip_radius,16,stator_exit,0.21720815688415376,maximum,0.44,0.22279184311584624,m,True
+hub_wall_slope,1,1:rotor_inlet -> 1:rotor_exit,0.25557960142765984,maximum,0.65,0.3944203985723402,,True
+tip_wall_slope,1,1:rotor_inlet -> 1:rotor_exit,0.2555796014276623,maximum,0.65,0.39442039857233774,,True
+hub_wall_slope,1,1:rotor_exit -> 1:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,1,1:rotor_exit -> 1:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,1,1:stator_inlet -> 1:stator_exit,0.0014925728940888277,maximum,0.65,0.6485074271059112,,True
+tip_wall_slope,1,1:stator_inlet -> 1:stator_exit,0.0014925728940877682,maximum,0.65,0.6485074271059122,,True
+hub_wall_slope,2,1:stator_exit -> 2:rotor_inlet,0.3460434450536727,maximum,0.65,0.30395655494632734,,True
+tip_wall_slope,2,1:stator_exit -> 2:rotor_inlet,0.23560230832827017,maximum,0.65,0.41439769167172985,,True
+hub_wall_slope,2,2:rotor_inlet -> 2:rotor_exit,0.22673617458851825,maximum,0.65,0.4232638254114818,,True
+tip_wall_slope,2,2:rotor_inlet -> 2:rotor_exit,0.22673617458851825,maximum,0.65,0.4232638254114818,,True
+hub_wall_slope,2,2:rotor_exit -> 2:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,2,2:rotor_exit -> 2:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,2,2:stator_inlet -> 2:stator_exit,0.0011531719319876129,maximum,0.65,0.6488468280680124,,True
+tip_wall_slope,2,2:stator_inlet -> 2:stator_exit,0.001153171931986364,maximum,0.65,0.6488468280680136,,True
+hub_wall_slope,3,2:stator_exit -> 3:rotor_inlet,0.3992328675385285,maximum,0.65,0.25076713246147153,,True
+tip_wall_slope,3,2:stator_exit -> 3:rotor_inlet,0.28639510602071755,maximum,0.65,0.3636048939792825,,True
+hub_wall_slope,3,3:rotor_inlet -> 3:rotor_exit,0.20323749741083416,maximum,0.65,0.44676250258916583,,True
+tip_wall_slope,3,3:rotor_inlet -> 3:rotor_exit,0.20323749741083585,maximum,0.65,0.44676250258916417,,True
+hub_wall_slope,3,3:rotor_exit -> 3:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,3,3:rotor_exit -> 3:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,3,3:stator_inlet -> 3:stator_exit,0.0009056432093020513,maximum,0.65,0.6490943567906979,,True
+tip_wall_slope,3,3:stator_inlet -> 3:stator_exit,0.0009056432093006079,maximum,0.65,0.6490943567906994,,True
+hub_wall_slope,4,3:stator_exit -> 4:rotor_inlet,0.4537382891934638,maximum,0.65,0.1962617108065362,,True
+tip_wall_slope,4,3:stator_exit -> 4:rotor_inlet,0.33866399320311175,maximum,0.65,0.3113360067968883,,True
+hub_wall_slope,4,4:rotor_inlet -> 4:rotor_exit,0.1837235162477764,maximum,0.65,0.46627648375222364,,True
+tip_wall_slope,4,4:rotor_inlet -> 4:rotor_exit,0.1837235162477764,maximum,0.65,0.46627648375222364,,True
+hub_wall_slope,4,4:rotor_exit -> 4:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,4,4:rotor_exit -> 4:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,4,4:stator_inlet -> 4:stator_exit,0.0007205488329653066,maximum,0.65,0.6492794511670347,,True
+tip_wall_slope,4,4:stator_inlet -> 4:stator_exit,0.0007205488329669477,maximum,0.65,0.6492794511670331,,True
+hub_wall_slope,5,4:stator_exit -> 5:rotor_inlet,0.5090599121130672,maximum,0.65,0.1409400878869328,,True
+tip_wall_slope,5,4:stator_exit -> 5:rotor_inlet,0.3918616723266198,maximum,0.65,0.25813832767338024,,True
+hub_wall_slope,5,5:rotor_inlet -> 5:rotor_exit,0.1672588368650023,maximum,0.65,0.4827411631349977,,True
+tip_wall_slope,5,5:rotor_inlet -> 5:rotor_exit,0.1672588368650045,maximum,0.65,0.4827411631349955,,True
+hub_wall_slope,5,5:rotor_exit -> 5:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,5,5:rotor_exit -> 5:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,5,5:stator_inlet -> 5:stator_exit,0.000579238614790033,maximum,0.65,0.64942076138521,,True
+tip_wall_slope,5,5:stator_inlet -> 5:stator_exit,0.0005792386147918732,maximum,0.65,0.6494207613852081,,True
+hub_wall_slope,6,5:stator_exit -> 6:rotor_inlet,0.5647374702670903,maximum,0.65,0.08526252973290971,,True
+tip_wall_slope,6,5:stator_exit -> 6:rotor_inlet,0.4454943843040584,maximum,0.65,0.2045056156959416,,True
+hub_wall_slope,6,6:rotor_inlet -> 6:rotor_exit,0.15317921792573327,maximum,0.65,0.4968207820742667,,True
+tip_wall_slope,6,6:rotor_inlet -> 6:rotor_exit,0.15317921792573572,maximum,0.65,0.4968207820742643,,True
+hub_wall_slope,6,6:rotor_exit -> 6:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,6,6:rotor_exit -> 6:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,6,6:stator_inlet -> 6:stator_exit,0.000469455343213629,maximum,0.65,0.6495305446567864,,True
+tip_wall_slope,6,6:stator_inlet -> 6:stator_exit,0.000469455343213629,maximum,0.65,0.6495305446567864,,True
+hub_wall_slope,7,6:stator_exit -> 7:rotor_inlet,0.6203498197140702,maximum,0.65,0.029650180285929806,,True
+tip_wall_slope,7,6:stator_exit -> 7:rotor_inlet,0.49911656481623684,maximum,0.65,0.15088343518376318,,True
+hub_wall_slope,7,7:rotor_inlet -> 7:rotor_exit,0.1410000796426038,maximum,0.65,0.5089999203573963,,True
+tip_wall_slope,7,7:rotor_inlet -> 7:rotor_exit,0.1410000796426038,maximum,0.65,0.5089999203573963,,True
+hub_wall_slope,7,7:rotor_exit -> 7:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,7,7:rotor_exit -> 7:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,7,7:stator_inlet -> 7:stator_exit,0.0003828896866562044,maximum,0.65,0.6496171103133438,,True
+tip_wall_slope,7,7:stator_inlet -> 7:stator_exit,0.0003828896866562044,maximum,0.65,0.6496171103133438,,True
+hub_wall_slope,8,7:stator_exit -> 8:rotor_inlet,0.6755137721231707,maximum,0.65,-0.02551377212317063,,False
+tip_wall_slope,8,7:stator_exit -> 8:rotor_inlet,0.5523266834172957,maximum,0.65,0.09767331658270428,,True
+hub_wall_slope,8,8:rotor_inlet -> 8:rotor_exit,0.13035967520033742,maximum,0.65,0.5196403247996626,,True
+tip_wall_slope,8,8:rotor_inlet -> 8:rotor_exit,0.13035967520033742,maximum,0.65,0.5196403247996626,,True
+hub_wall_slope,8,8:rotor_exit -> 8:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,8,8:rotor_exit -> 8:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,8,8:stator_inlet -> 8:stator_exit,0.0003137570380973793,maximum,0.65,0.6496862429619027,,True
+tip_wall_slope,8,8:stator_inlet -> 8:stator_exit,0.0003137570380973793,maximum,0.65,0.6496862429619027,,True
+hub_wall_slope,9,8:stator_exit -> 9:rotor_inlet,0.729882554025219,maximum,0.65,-0.07988255402521893,,False
+tip_wall_slope,9,8:stator_exit -> 9:rotor_inlet,0.6047638128418545,maximum,0.65,0.04523618715814548,,True
+hub_wall_slope,9,9:rotor_inlet -> 9:rotor_exit,0.12098252875433192,maximum,0.65,0.5290174712456681,,True
+tip_wall_slope,9,9:rotor_inlet -> 9:rotor_exit,0.12098252875433192,maximum,0.65,0.5290174712456681,,True
+hub_wall_slope,9,9:rotor_exit -> 9:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,9,9:rotor_exit -> 9:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,9,9:stator_inlet -> 9:stator_exit,0.00025793669452568436,maximum,0.65,0.6497420633054743,,True
+tip_wall_slope,9,9:stator_inlet -> 9:stator_exit,0.00025793669452568436,maximum,0.65,0.6497420633054743,,True
+hub_wall_slope,10,9:stator_exit -> 10:rotor_inlet,0.7831440905642026,maximum,0.65,-0.13314409056420262,,False
+tip_wall_slope,10,9:stator_exit -> 10:rotor_inlet,0.656104679140241,maximum,0.65,-0.006104679140240932,,False
+hub_wall_slope,10,10:rotor_inlet -> 10:rotor_exit,0.11265518819013515,maximum,0.65,0.5373448118098649,,True
+tip_wall_slope,10,10:rotor_inlet -> 10:rotor_exit,0.11265518819013515,maximum,0.65,0.5373448118098649,,True
+hub_wall_slope,10,10:rotor_exit -> 10:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,10,10:rotor_exit -> 10:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,10,10:stator_inlet -> 10:stator_exit,0.00021243359793357336,maximum,0.65,0.6497875664020665,,True
+tip_wall_slope,10,10:stator_inlet -> 10:stator_exit,0.00021243359793357336,maximum,0.65,0.6497875664020665,,True
+hub_wall_slope,11,10:stator_exit -> 11:rotor_inlet,0.8350192208624184,maximum,0.65,-0.1850192208624184,,False
+tip_wall_slope,11,10:stator_exit -> 11:rotor_inlet,0.7060610479284187,maximum,0.65,-0.056061047928418706,,False
+hub_wall_slope,11,11:rotor_inlet -> 11:rotor_exit,0.10520971444733207,maximum,0.65,0.544790285552668,,True
+tip_wall_slope,11,11:rotor_inlet -> 11:rotor_exit,0.10520971444733207,maximum,0.65,0.544790285552668,,True
+hub_wall_slope,11,11:rotor_exit -> 11:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,11,11:rotor_exit -> 11:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,11,11:stator_inlet -> 11:stator_exit,0.00017503188029376017,maximum,0.65,0.6498249681197062,,True
+tip_wall_slope,11,11:stator_inlet -> 11:stator_exit,0.00017503188029376017,maximum,0.65,0.6498249681197062,,True
+hub_wall_slope,12,11:stator_exit -> 12:rotor_inlet,0.885259904248513,maximum,0.65,-0.23525990424851295,,False
+tip_wall_slope,12,11:stator_exit -> 12:rotor_inlet,0.7543773587860463,maximum,0.65,-0.10437735878604626,,False
+hub_wall_slope,12,12:rotor_inlet -> 12:rotor_exit,0.09851217489813696,maximum,0.65,0.5514878251018631,,True
+tip_wall_slope,12,12:rotor_inlet -> 12:rotor_exit,0.09851217489813696,maximum,0.65,0.5514878251018631,,True
+hub_wall_slope,12,12:rotor_exit -> 12:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,12,12:rotor_exit -> 12:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,12,12:stator_inlet -> 12:stator_exit,0.00014406610752909062,maximum,0.65,0.649855933892471,,True
+tip_wall_slope,12,12:stator_inlet -> 12:stator_exit,0.00014406610752909062,maximum,0.65,0.649855933892471,,True
+hub_wall_slope,13,12:stator_exit -> 13:rotor_inlet,0.9336474506405625,maximum,0.65,-0.2836474506405625,,False
+tip_wall_slope,13,12:stator_exit -> 13:rotor_inlet,0.8008285520217011,maximum,0.65,-0.1508285520217011,,False
+hub_wall_slope,13,13:rotor_inlet -> 13:rotor_exit,0.09245445756939207,maximum,0.65,0.5575455424306079,,True
+tip_wall_slope,13,13:rotor_inlet -> 13:rotor_exit,0.09245445756939207,maximum,0.65,0.5575455424306079,,True
+hub_wall_slope,13,13:rotor_exit -> 13:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,13,13:rotor_exit -> 13:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,13,13:stator_inlet -> 13:stator_exit,0.00011826678282722028,maximum,0.65,0.6498817332171728,,True
+tip_wall_slope,13,13:stator_inlet -> 13:stator_exit,0.00011826678282722028,maximum,0.65,0.6498817332171728,,True
+hub_wall_slope,14,13:stator_exit -> 14:rotor_inlet,0.9799907938452165,maximum,0.65,-0.32999079384521646,,False
+tip_wall_slope,14,13:stator_exit -> 14:rotor_inlet,0.8452180510190892,maximum,0.65,-0.19521805101908918,,False
+hub_wall_slope,14,14:rotor_inlet -> 14:rotor_exit,0.08694834002048357,maximum,0.65,0.5630516599795165,,True
+tip_wall_slope,14,14:rotor_inlet -> 14:rotor_exit,0.08694834002048357,maximum,0.65,0.5630516599795165,,True
+hub_wall_slope,14,14:rotor_exit -> 14:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,14,14:rotor_exit -> 14:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,14,14:stator_inlet -> 14:stator_exit,9.665387376364595e-05,maximum,0.65,0.6499033461262363,,True
+tip_wall_slope,14,14:stator_inlet -> 14:stator_exit,9.665387376364595e-05,maximum,0.65,0.6499033461262363,,True
+hub_wall_slope,15,14:stator_exit -> 15:rotor_inlet,1.024124818187853,maximum,0.65,-0.37412481818785304,,False
+tip_wall_slope,15,14:stator_exit -> 15:rotor_inlet,0.887375874997041,maximum,0.65,-0.23737587499704094,,False
+hub_wall_slope,15,15:rotor_inlet -> 15:rotor_exit,0.08192112053919645,maximum,0.65,0.5680788794608036,,True
+tip_wall_slope,15,15:rotor_inlet -> 15:rotor_exit,0.08192112053919645,maximum,0.65,0.5680788794608036,,True
+hub_wall_slope,15,15:rotor_exit -> 15:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,15,15:rotor_exit -> 15:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,15,15:stator_inlet -> 15:stator_exit,7.846209100660767e-05,maximum,0.65,0.6499215379089934,,True
+tip_wall_slope,15,15:stator_inlet -> 15:stator_exit,7.846209100660767e-05,maximum,0.65,0.6499215379089934,,True
+hub_wall_slope,16,15:stator_exit -> 16:rotor_inlet,1.0659087439896993,maximum,0.65,-0.41590874398969924,,False
+tip_wall_slope,16,15:stator_exit -> 16:rotor_inlet,0.9271568643528759,maximum,0.65,-0.2771568643528759,,False
+hub_wall_slope,16,16:rotor_inlet -> 16:rotor_exit,0.0773123519582238,maximum,0.65,0.5726876480417762,,True
+tip_wall_slope,16,16:rotor_inlet -> 16:rotor_exit,0.0773123519582238,maximum,0.65,0.5726876480417762,,True
+hub_wall_slope,16,16:rotor_exit -> 16:stator_inlet,0.0,maximum,0.65,0.65,,True
+tip_wall_slope,16,16:rotor_exit -> 16:stator_inlet,0.0,maximum,0.65,0.65,,True
+hub_wall_slope,16,16:stator_inlet -> 16:stator_exit,6.308758232827198e-05,maximum,0.65,0.6499369124176717,,True
+tip_wall_slope,16,16:stator_inlet -> 16:stator_exit,6.308758232827198e-05,maximum,0.65,0.6499369124176717,,True
+shaft_rpm_screen,,,10500.0,minimum,6500.0,4000.0,rpm,True
+shaft_rpm_screen,,,10500.0,maximum,18000.0,7500.0,rpm,True
+flow_coefficient_screen,,,0.55,minimum,0.38,0.17000000000000004,,True
+flow_coefficient_screen,,,0.55,maximum,0.78,0.22999999999999998,,True
+radius_in_screen,,,0.25,minimum,0.14,0.10999999999999999,m,True
+radius_in_screen,,,0.25,maximum,0.32,0.07,m,True
+radius_out_screen,,,0.21,minimum,0.14,0.06999999999999998,m,True
+radius_out_screen,,,0.21,maximum,0.32,0.11000000000000001,m,True
