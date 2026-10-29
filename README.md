@@ -7,7 +7,7 @@ stage-by-stage outputs and transparent screening checks.
 
 **Project status:** Complete for the intended learning scope. The work
 emphasized compressor thermodynamics and mean-line methods; aerodynamic
-prediction and rigorous physical validation are deferred to Project 2.5.
+prediction and rigorous physical validation are deferred to the future Project 2.1.
 
 **Development note:** AI tools assisted with code implementation and
 refinement. The project objectives, selected assumptions, and engineering
