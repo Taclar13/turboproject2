@@ -167,7 +167,7 @@ The listed material densities, structural dimensions and limit values carry over
 
 **P2 closeout:** the intended learning scope is complete. The NASA/GE LSRC first-pass comparison in `validation/` exercised the thermodynamic work relation and compared P2's third-stage Euler work with a measured NASA midspan velocity triangle. That comparison is a consistency check under prescribed efficiency and simplified flow assumptions; it is not independent validation of compressor efficiency, broad aerodynamic accuracy, or design feasibility. The benchmark exposed the limits of P2's intentionally simplified aerodynamic representation. Further aerodynamic modeling and more rigorous validation belong to Project 2.1.
 
-Project 2.1 is planned to incorporate aerodynamic logic also implemented in Project 3, creating a more complete P2 model that is more appropriate for deeper validation. The detailed P2.5 scope will be specified when that phase begins.
+Project 2.1 is planned to incorporate aerodynamic logic also implemented in Project 3, creating a more complete P2 model that is more appropriate for deeper validation. The detailed P2.1 scope will be specified when that phase begins.
 
 ## 7. Editable study starter
 
