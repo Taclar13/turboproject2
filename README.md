@@ -69,7 +69,7 @@ manually configured study of compressor thermodynamics, Euler work, velocity
 triangles, design parameters, and multistage calculations. It is not intended
 to predict aerodynamic efficiency or serve as a validated compressor design
 tool. Further aerodynamic model development and more rigorous validation are
-deferred to Project 2.5.
+deferred to future projects.
 
 **Purpose:** Solve and investigate **one user-specified design at a time**. This rebuild retains the original preliminary mean-line stage and hardware-mass calculations, removes differential evolution, the mass-minimization objective, and automatic mass-flow sweeps, and exposes separate loading and radius distributions. The model **does not** independently predict aerodynamic efficiency or predict a physical compressor with validated accuracy.
 
@@ -165,9 +165,9 @@ The listed material densities, structural dimensions and limit values carry over
 
 **Current closeout example:** the 10-stage, 16 kg/s, 9,000 rpm, PR 5.0 case in `examples/results/pr5_10stage_16kg_s/` reaches PR 5.000000 and passes all 326 implemented screening checks. The untouched default (16 stages, PR 14.0) reaches its target but fails 35 of 518 checks, chiefly minimum blade-height screens. These are checks of the selected model and thresholds, not independent aerodynamic validation. The equation-level verification and run details are in `docs/validation.md`.
 
-**P2 closeout:** the intended learning scope is complete. The NASA/GE LSRC first-pass comparison in `validation/` exercised the thermodynamic work relation and compared P2's third-stage Euler work with a measured NASA midspan velocity triangle. That comparison is a consistency check under prescribed efficiency and simplified flow assumptions; it is not independent validation of compressor efficiency, broad aerodynamic accuracy, or design feasibility. The benchmark exposed the limits of P2's intentionally simplified aerodynamic representation. Further aerodynamic modeling and more rigorous validation belong to Project 2.5.
+**P2 closeout:** the intended learning scope is complete. The NASA/GE LSRC first-pass comparison in `validation/` exercised the thermodynamic work relation and compared P2's third-stage Euler work with a measured NASA midspan velocity triangle. That comparison is a consistency check under prescribed efficiency and simplified flow assumptions; it is not independent validation of compressor efficiency, broad aerodynamic accuracy, or design feasibility. The benchmark exposed the limits of P2's intentionally simplified aerodynamic representation. Further aerodynamic modeling and more rigorous validation belong to Project 2.1.
 
-Project 2.5 is planned to incorporate aerodynamic logic also implemented in Project 3, creating a more complete P2 model that is more appropriate for deeper validation. The detailed P2.5 scope will be specified when that phase begins.
+Project 2.1 is planned to incorporate aerodynamic logic also implemented in Project 3, creating a more complete P2 model that is more appropriate for deeper validation. The detailed P2.5 scope will be specified when that phase begins.
 
 ## 7. Editable study starter
 
